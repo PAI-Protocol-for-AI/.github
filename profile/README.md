@@ -27,9 +27,20 @@ As AI evolves from isolated assistants into autonomous digital workers, PAI serv
 
 ## Getting Started
 ---
+- Read the [documentation](https://www.github.com/PAI-Protocol-for-AI) for guides and tutorials
+- Review the [specification](https://www.github.com/PAI-Protocol-for-AI) for protocol details
+- Use our SDK to start building:
+  - [TypeScript SDK](https://www.github.com/PAI-Protocol-for-AI)
+  - [Python SDK](https://www.github.com/PAI-Protocol-for-AI)
+  - [Java SDK](https://www.github.com/PAI-Protocol-for-AI)
+  - [C# SDK](https://www.github.com/PAI-Protocol-for-AI)
 
 ## Project Structure
 ---
+- [typescript-sdk](https://www.github.com/PAI-Protocol-for-AI)
+- [python-sdk](https://www.github.com/PAI-Protocol-for-AI)
+- [java-sdk](https://www.github.com/PAI-Protocol-for-AI)
+- [csharp-sdk](https://www.github.com/PAI-Protocol-for-AI)
 
 ## Contributing
 ---
