@@ -31,11 +31,11 @@ As AI evolves from isolated assistants into autonomous digital workers, PAI serv
 
 ## Contributing
 ---
-We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new features, please see our ![contributing guide](./profile/CONTRIBUTING.md) to get started.
+We welcome contributions of all kinds! Whether you want to fix bugs, improve documentation, or propose new features, please see our [contributing guide](./profile/CONTRIBUTING.md) to get started.
 
-Have questions? Join the discussion in our ![community forum](https://www.github.com/PAI-Protocol-for-AI/discussions).
+Have questions? Join the discussion in our [community forum](https://www.github.com/PAI-Protocol-for-AI/discussions).
 
 ## About
 ---
-PAI is an open-source project hosted by ![ARL Matrix](https://www.linkedin.com/company/arlmatrix/) and open to contributions from entire community.
+PAI is an open-source project hosted by [ARL Matrix](https://www.linkedin.com/company/arlmatrix/) and open to contributions from entire community.
 Thank you very much!
