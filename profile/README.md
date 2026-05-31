@@ -37,10 +37,10 @@ As AI evolves from isolated assistants into autonomous digital workers, PAI serv
 
 ## Project Structure
 ---
-- [typescript-sdk](https://www.github.com/PAI-Protocol-for-AI)
-- [python-sdk](https://www.github.com/PAI-Protocol-for-AI)
-- [java-sdk](https://www.github.com/PAI-Protocol-for-AI)
-- [csharp-sdk](https://www.github.com/PAI-Protocol-for-AI)
+- [typescript-sdk](https://www.github.com/PAI-Protocol-for-AI) - TypeScript Implementation
+- [python-sdk](https://www.github.com/PAI-Protocol-for-AI) - Python Implementation
+- [java-sdk](https://www.github.com/PAI-Protocol-for-AI) - Java Implementation
+- [csharp-sdk](https://www.github.com/PAI-Protocol-for-AI) - C# Implementation
 
 ## Contributing
 ---
