@@ -1,6 +1,5 @@
-README.md
 # PAI - Protocol for AI
-![PAI Banner](./profile/assets/Banner.png)
+![PAI Banner](./assets/Banner.png)
 <div align="center"
   <strong><p>Next-Gen Protocol for Autonomous AI.</p></strong>
 </div>
