@@ -1,7 +1,7 @@
 # PAI - Protocol for AI
 ![PAI Banner](./assets/Banner.png)
 <div align="center">
-  **`Next-Gen Protocol for Autonomous AI.`**
+  **Next-Gen Protocol for Autonomous AI.**
 </div>
 
 ## Overview
